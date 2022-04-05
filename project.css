@@ -1,0 +1,42 @@
+body {
+    margin: 10px;
+}
+h1 { 
+    text-align: center;
+}
+h3 {
+    color: black;
+}
+.table1 {
+ border: 1px blue solid;
+ text-align: center;
+ margin: 15px;
+ position: relative;
+ float: left;
+}
+.table2 {
+    border: 1px blue solid;
+    text-align: center;
+    margin: 15px;
+    position: relative;
+    float: left;
+   }
+.table3 {
+    border: 1px blue solid;
+    text-align: center;
+    margin: 15px;
+    position: relative;
+    float: left;
+   }
+.text {
+    padding-top: 150px;
+}
+#img {
+    color: mediumblue;
+    text-decoration: underline;
+    font-size: 20px;
+}
+u {
+    color: mediumblue;
+    font-size: 20px;
+}
